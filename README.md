@@ -12,6 +12,6 @@ To run this project, unzip the Folder to:
     
 And Name the Folder: 
 
-    dispayconfig@xi72yow.de
+    dispayconfig@xi72yow
 
 Maybe you can Install this soon from the Gnome Extension Website.
