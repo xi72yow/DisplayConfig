@@ -1,0 +1,10 @@
+{
+	"description" : "With this extension you can set up your display lightness on all your screens. The Game Mode deactivate all unneeded screens so you play on the primary screen.",
+	"name" : "Display Configurator",
+	"shell-version" : [
+		"3.36.4"
+	],
+	"url" : "",
+	"uuid" : "displayconfig@xi72yow.de",
+	"version" : 1
+}
