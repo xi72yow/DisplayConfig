@@ -1,15 +1,6 @@
 'use strict';
 
 /*
-██   ██ ███████ ██      ██       ██████       ██████  ██ ████████
-██   ██ ██      ██      ██      ██    ██     ██       ██    ██
-███████ █████   ██      ██      ██    ██     ██   ███ ██    ██
-██   ██ ██      ██      ██      ██    ██     ██    ██ ██    ██
-██   ██ ███████ ███████ ███████  ██████       ██████  ██    ██
-*/
-
-
-/*
 ██ ███    ███ ██████   ██████  ██████  ████████ ███████
 ██ ████  ████ ██   ██ ██    ██ ██   ██    ██    ██
 ██ ██ ████ ██ ██████  ██    ██ ██████     ██    ███████
@@ -335,7 +326,7 @@ const MyPopup = GObject.registerClass(
           }
         }
       } else {
-        Main.notify('Lightness Error', "Sorry for that, please send me your current Gnome-Shell log. My Mail: **@xi72yow.de");
+        Main.notify('Lightness Error', "Sorry for that, you can contact me over GitHub.");
         item.disconnect('notify::value');
       }
       return;
@@ -354,7 +345,7 @@ const MyPopup = GObject.registerClass(
         isGameMode = item.state;
         setGameMode(item.state);
       } else {
-        Main.notify('Game Mode Error', "Sorry for that, please send me your current Gnome-Shell log. My Mail: **@xi72yow.de");
+        Main.notify('Game Mode Error', "Sorry for that, you can contact me over GitHub.");
       }
       return;
     }
