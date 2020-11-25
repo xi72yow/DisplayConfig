@@ -10,8 +10,4 @@ To run this project, unzip the Folder to:
 
     /home/usr/.local/share/gnome-shell/extensions/
     
-And Name the Folder: 
-
-    dispayconfig@xi72yow
-
 Maybe you can Install this soon from the Gnome Extension Website.

@@ -1,5 +1,5 @@
 {
-  "uuid": "displayconfig@xi72yow",
+  "uuid": "DisplayConfig",
   "extension-id": "display config",
   "name": "Display Configurator",
   "description": "With this extension you can set up your display lightness on all your screens. The Game Mode deactivate all unneeded screens so you play on the primary screen.",
