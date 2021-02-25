@@ -10,6 +10,10 @@ To run this project, unzip the Folder to:
 
     /home/usr/.local/share/gnome-shell/extensions/
 
+And Name it:
+
+    DisplayConfig
+
 Maybe you can Install this soon from the Gnome Extension Website.
 
 ## ToDo
